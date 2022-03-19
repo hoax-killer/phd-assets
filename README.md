@@ -2,7 +2,7 @@
 
 This repository is intended to distribute high-quality photographs that were released as part of the PhD Dissertation of [Arvind Narayanan](https://arvindn.com). They can be found in Appendix B of the dissertation. The title of his dissertation is _"A Comprehensive Examination of Emerging 5G Services: Challenges and Opportunities"_. 
 
-Each photograph presented in Appendix B is assigned a 4-character alpha-numeric code that acts as the identifier. Use this identifier to find the corresponding high quality JPEG photograph in the `media` folder of this repository. RAW source files (@ 60MP) for certain photographs is available upon request details of which are followed next.  
+Each photograph presented in Appendix B is assigned a 4-character alpha-numeric code that acts as the identifier. This identifier can be used to find the corresponding high quality JPEG photograph in the `media` folder of this repository. RAW source files (@ 60MP) for certain photographs is available upon request.  
 
 # RAW Source Files
 RAW source files for the following photograph identifiers are available upon request.
@@ -177,7 +177,7 @@ RAW source files for the following photograph identifiers are available upon req
 </tbody>
 </table>
 
-Please fill out this form to make a request for access to any of the RAW source file from the   photographs listed above. While there is no charge to get the source file(s), it is required to make a reasonable justification. Note, for each photograph, a separate form has to be filled out. Apologies if this causes any overhead, but this is to ensure the files are only and only used for the intended purpose.
+Please fill out this form to make a request for access to any of the RAW source file from the photographs listed in the above table. While there is no charge to get the source file(s), it is required to make a reasonable justification to have access to the source file beyond the HQ photograph files already distributed in this repository. Note, for each photograph, a separate form has to be filled out. Apologies if this causes any overheads, but this is to ensure the source files are only and only used for the legitmataly justified purpose.
 
 # License
 
