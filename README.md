@@ -1,6 +1,6 @@
 # About The Repository
 
-This repository is intended to distribute high quality photographs that were released as part of the PhD Dissertation of [Arvind Narayanan](https://arvindn.com). They can be found in Appendix B of the dissertation. The title of his dissertation is _"A Comprehensive Examination of Emerging 5G Services: Challenges and Opportunities"_. 
+This repository is intended to distribute high quality photographs that were released as part of the PhD Dissertation of [Arvind Narayanan](https://arvindn.com). The title of his dissertation is [_"A Comprehensive Examination of Emerging 5G Services: Challenges and Opportunities"_](https://hdl.handle.net/11299/227910). The gallery of photographs can be found in Appendix B of the dissertation.
 
 Each photograph shown in _Appendix B_ is assigned a 4-character alpha-numeric code that acts as the identifier. This identifier can be used to find the corresponding high quality JPEG photograph in the `media` folder of this repository. RAW source files (@ 60MP) for certain photographs is available upon request.  
 
